@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35825.156 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffloadingTask", "OffloadingTask.csproj", "{52F2916B-6C9B-48D2-89B8-D6B149963E8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleConcurrentReqEx", "..\HandleConcurrentReqEx\HandleConcurrentReqEx.csproj", "{1E753CF1-439C-458E-8A36-DA6284AB3F90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{52F2916B-6C9B-48D2-89B8-D6B149963E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52F2916B-6C9B-48D2-89B8-D6B149963E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52F2916B-6C9B-48D2-89B8-D6B149963E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E753CF1-439C-458E-8A36-DA6284AB3F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E753CF1-439C-458E-8A36-DA6284AB3F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E753CF1-439C-458E-8A36-DA6284AB3F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E753CF1-439C-458E-8A36-DA6284AB3F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
