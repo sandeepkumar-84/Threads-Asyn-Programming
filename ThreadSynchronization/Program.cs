@@ -30,17 +30,20 @@ Object lockObject = new Object();
 //thread3.Join();
 //thread4.Join();
 
-Console.WriteLine($"Counter value is {counter} using monitors");
+//Console.WriteLine($"Counter value is {counter} using monitors");
 
-Thread thread5 = new Thread(IncrementCounterUsingMonitorsTryEnter);
-Thread thread6 = new Thread(IncrementCounterUsingMonitorsTryEnter);
+//Thread thread5 = new Thread(IncrementCounterUsingMonitorsTryEnter);
+//Thread thread6 = new Thread(IncrementCounterUsingMonitorsTryEnter);
 
-thread5.Start();
-thread6.Start();
-thread5.Join();
-thread6.Join();
+//thread5.Start();
+//thread6.Start();
+//thread5.Join();
+//thread6.Join();
 
-Console.WriteLine($"Counter value is {counter} using monitors tryenter");
+//Console.WriteLine($"Counter value is {counter} using monitors tryenter");
+
+
+// Mutex
 
 void IncrementCounter()
 {
