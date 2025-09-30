@@ -22,8 +22,12 @@ void IncrementCounter()
     for (int i = 0; i < 100; i++)
     { 
         Thread.Sleep(10);
-        lock(lockObject)
-        counter = counter + 1; // non atomic statement and shared resource
+        // critical section is being locked  
+        lock (lockObject)
+        {
+            counter = counter + 1; // non atomic statement and shared resource
+        }
+        
     }
 }
 
