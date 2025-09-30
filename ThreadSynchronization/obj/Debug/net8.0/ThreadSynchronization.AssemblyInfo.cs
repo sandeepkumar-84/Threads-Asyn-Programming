@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadSynchronization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9889759f13030c3235cc6c091481528138a4dd06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+109a81dfbf35a1911e1bc6fa5f71113b0627edf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadSynchronization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadSynchronization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
