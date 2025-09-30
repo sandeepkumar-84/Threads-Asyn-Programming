@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\bin\Debug\net8.0\PracticeApp1.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\bin\Debug\net8.0\PracticeApp1.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\bin\Debug\net8.0\PracticeApp1.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\bin\Debug\net8.0\PracticeApp1.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\bin\Debug\net8.0\PracticeApp1.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\refint\PracticeApp1.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\PracticeApp1.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\PracticeApp1\obj\Debug\net8.0\ref\PracticeApp1.dll
