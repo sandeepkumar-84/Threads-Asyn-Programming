@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OffloadingTask", "OffloadingTask.csproj", "{52F2916B-6C9B-48D2-89B8-D6B149963E8C}"
 EndProject
@@ -21,6 +21,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResetEventEx", "..\AutoResetEventEx\AutoResetEventEx.csproj", "{943576ED-7401-46EA-81F1-A1ACF27C77C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEx", "..\ManualResetEx\ManualResetEx.csproj", "{13551D1B-1592-405A-A15F-9D69971FBC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWaySignaling", "..\TwoWaySignaling\TwoWaySignaling.csproj", "{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{13551D1B-1592-405A-A15F-9D69971FBC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13551D1B-1592-405A-A15F-9D69971FBC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13551D1B-1592-405A-A15F-9D69971FBC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
