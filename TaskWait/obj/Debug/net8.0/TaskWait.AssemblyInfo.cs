@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskWait")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c4fea947fbff1a66532fa996776e4491054971")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+152fa1c26a6ce7f2ff8b3cdcdc1f206df941a47c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskWait")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskWait")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

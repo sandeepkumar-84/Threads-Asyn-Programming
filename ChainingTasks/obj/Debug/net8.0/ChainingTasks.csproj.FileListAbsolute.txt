@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\bin\Debug\net8.0\ChainingTasks.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\bin\Debug\net8.0\ChainingTasks.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\bin\Debug\net8.0\ChainingTasks.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\bin\Debug\net8.0\ChainingTasks.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\bin\Debug\net8.0\ChainingTasks.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\refint\ChainingTasks.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ChainingTasks.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ChainingTasks\obj\Debug\net8.0\ref\ChainingTasks.dll
