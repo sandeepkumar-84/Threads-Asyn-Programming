@@ -44,7 +44,7 @@ void Consumer()
 {
     // wait for the producer to produce
     // gets the signal
-    // consume the item
+    // consume the item 
 
     while (true)
     {
