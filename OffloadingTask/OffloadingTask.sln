@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWait", "..\TaskWait\Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTask", "..\GenericTask\GenericTask.csproj", "{DF2EAC16-3806-41C0-B32F-C7944511864D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainingTasks", "..\ChainingTasks\ChainingTasks.csproj", "{94607D68-89AC-4A00-BCDE-CA83049354B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
