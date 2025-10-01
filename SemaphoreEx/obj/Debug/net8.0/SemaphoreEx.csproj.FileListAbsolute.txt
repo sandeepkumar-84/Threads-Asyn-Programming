@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\bin\Debug\net8.0\SemaphoreEx.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\bin\Debug\net8.0\SemaphoreEx.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\bin\Debug\net8.0\SemaphoreEx.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\bin\Debug\net8.0\SemaphoreEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\bin\Debug\net8.0\SemaphoreEx.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\refint\SemaphoreEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\SemaphoreEx.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\SemaphoreEx\obj\Debug\net8.0\ref\SemaphoreEx.dll

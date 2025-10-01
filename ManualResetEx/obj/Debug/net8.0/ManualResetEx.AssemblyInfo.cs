@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ManualResetEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6707819185c44da30d932419aceb600e52be4c5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a223705afd3bac982e69fc07e2a31498755fbfd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ManualResetEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ManualResetEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
