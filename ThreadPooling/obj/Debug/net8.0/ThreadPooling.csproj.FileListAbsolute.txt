@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\bin\Debug\net8.0\ThreadPooling.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\bin\Debug\net8.0\ThreadPooling.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\bin\Debug\net8.0\ThreadPooling.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\bin\Debug\net8.0\ThreadPooling.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\bin\Debug\net8.0\ThreadPooling.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\refint\ThreadPooling.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ThreadPooling.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ThreadPooling\obj\Debug\net8.0\ref\ThreadPooling.dll

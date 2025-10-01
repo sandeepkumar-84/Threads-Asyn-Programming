@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\bin\Debug\net8.0\GenericTask.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\bin\Debug\net8.0\GenericTask.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\bin\Debug\net8.0\GenericTask.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\bin\Debug\net8.0\GenericTask.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\bin\Debug\net8.0\GenericTask.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\refint\GenericTask.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\GenericTask.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\GenericTask\obj\Debug\net8.0\ref\GenericTask.dll

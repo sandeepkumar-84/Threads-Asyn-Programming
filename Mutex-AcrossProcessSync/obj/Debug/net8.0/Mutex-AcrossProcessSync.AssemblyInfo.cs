@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mutex-AcrossProcessSync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a223705afd3bac982e69fc07e2a31498755fbfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6c4fea947fbff1a66532fa996776e4491054971")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mutex-AcrossProcessSync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mutex-AcrossProcessSync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

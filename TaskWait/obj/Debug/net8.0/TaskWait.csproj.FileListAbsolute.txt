@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\bin\Debug\net8.0\TaskWait.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\bin\Debug\net8.0\TaskWait.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\bin\Debug\net8.0\TaskWait.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\bin\Debug\net8.0\TaskWait.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\bin\Debug\net8.0\TaskWait.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\refint\TaskWait.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\TaskWait.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\TaskWait\obj\Debug\net8.0\ref\TaskWait.dll
