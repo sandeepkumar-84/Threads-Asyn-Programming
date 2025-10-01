@@ -28,6 +28,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPooling", "..\ThreadP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "..\Task\Task.csproj", "{43BB7AF6-177B-43A6-8C7D-02469359DF29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWait", "..\TaskWait\TaskWait.csproj", "{0C352BD9-156F-4CAC-A8DD-616B61FAF115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTask", "..\GenericTask\GenericTask.csproj", "{DF2EAC16-3806-41C0-B32F-C7944511864D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +78,14 @@ Global
 		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C352BD9-156F-4CAC-A8DD-616B61FAF115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C352BD9-156F-4CAC-A8DD-616B61FAF115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C352BD9-156F-4CAC-A8DD-616B61FAF115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C352BD9-156F-4CAC-A8DD-616B61FAF115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2EAC16-3806-41C0-B32F-C7944511864D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
