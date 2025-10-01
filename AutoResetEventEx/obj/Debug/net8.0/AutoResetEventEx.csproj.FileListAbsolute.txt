@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\bin\Debug\net8.0\AutoResetEventEx.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\bin\Debug\net8.0\AutoResetEventEx.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\bin\Debug\net8.0\AutoResetEventEx.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\bin\Debug\net8.0\AutoResetEventEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\bin\Debug\net8.0\AutoResetEventEx.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\refint\AutoResetEventEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\AutoResetEventEx.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\AutoResetEventEx\obj\Debug\net8.0\ref\AutoResetEventEx.dll

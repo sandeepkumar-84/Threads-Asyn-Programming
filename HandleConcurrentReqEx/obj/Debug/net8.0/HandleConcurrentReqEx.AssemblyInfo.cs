@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandleConcurrentReqEx")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9889759f13030c3235cc6c091481528138a4dd06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34802bcccd67ca4cecc08799a319fbc96a09ab44")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandleConcurrentReqEx")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandleConcurrentReqEx")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

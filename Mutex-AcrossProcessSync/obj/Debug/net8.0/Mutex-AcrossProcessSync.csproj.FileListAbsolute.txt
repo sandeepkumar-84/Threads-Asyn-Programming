@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\bin\Debug\net8.0\Mutex-AcrossProcessSync.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\bin\Debug\net8.0\Mutex-AcrossProcessSync.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\bin\Debug\net8.0\Mutex-AcrossProcessSync.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\bin\Debug\net8.0\Mutex-AcrossProcessSync.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\bin\Debug\net8.0\Mutex-AcrossProcessSync.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\refint\Mutex-AcrossProcessSync.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\Mutex-AcrossProcessSync.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\Mutex-AcrossProcessSync\obj\Debug\net8.0\ref\Mutex-AcrossProcessSync.dll
