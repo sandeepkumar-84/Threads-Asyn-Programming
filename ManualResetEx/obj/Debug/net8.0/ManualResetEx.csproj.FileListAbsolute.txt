@@ -1,0 +1,15 @@
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\bin\Debug\net8.0\ManualResetEx.exe
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\bin\Debug\net8.0\ManualResetEx.deps.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\bin\Debug\net8.0\ManualResetEx.runtimeconfig.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\bin\Debug\net8.0\ManualResetEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\bin\Debug\net8.0\ManualResetEx.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.AssemblyInfoInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.AssemblyInfo.cs
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.sourcelink.json
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\refint\ManualResetEx.dll
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.pdb
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ManualResetEx.genruntimeconfig.cache
+C:\Users\sande\source\repos\Threads-Asyn-Programming\ManualResetEx\obj\Debug\net8.0\ref\ManualResetEx.dll
