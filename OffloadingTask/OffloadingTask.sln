@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManualResetEx", "..\ManualR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoWaySignaling", "..\TwoWaySignaling\TwoWaySignaling.csproj", "{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadPooling", "..\ThreadPooling\ThreadPooling.csproj", "{3506B1E4-227F-4EAF-B2B5-E97ADB98CFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "..\Task\Task.csproj", "{43BB7AF6-177B-43A6-8C7D-02469359DF29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +66,14 @@ Global
 		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABDE97E3-AFEE-48D4-B150-58B2F6C89B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3506B1E4-227F-4EAF-B2B5-E97ADB98CFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3506B1E4-227F-4EAF-B2B5-E97ADB98CFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3506B1E4-227F-4EAF-B2B5-E97ADB98CFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3506B1E4-227F-4EAF-B2B5-E97ADB98CFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BB7AF6-177B-43A6-8C7D-02469359DF29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
