@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericTask", "..\GenericTa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainingTasks", "..\ChainingTasks\ChainingTasks.csproj", "{94607D68-89AC-4A00-BCDE-CA83049354B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynAwait", "..\AsynAwait\AsynAwait.csproj", "{99124561-1085-4366-BDFC-AD4B6F77B128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -92,6 +94,10 @@ Global
 		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94607D68-89AC-4A00-BCDE-CA83049354B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99124561-1085-4366-BDFC-AD4B6F77B128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99124561-1085-4366-BDFC-AD4B6F77B128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99124561-1085-4366-BDFC-AD4B6F77B128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99124561-1085-4366-BDFC-AD4B6F77B128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
